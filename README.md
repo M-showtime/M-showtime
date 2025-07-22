@@ -1,7 +1,7 @@
 # 👋 Hi, I'm **Samsom**  
 🚀 **Professional Software Engineer | Full Stack Java Developer | AWS Certified**  
 
-I am a results-driven **Software Engineer** with a **Master's degree in Computer Science** and a passion for building **scalable, high-performance web applications**. With expertise in **Java, Spring Boot, React, and cloud technologies**, I specialize in designing robust backend architectures, seamless frontend experiences, and efficient cloud deployments.  
+I am a results-driven **Software Engineer** with a **Master's degree in Computer Science** and a passion for building **scalable, high-performance web applications, Machine Learning**. With expertise in **Java, Spring Boot, React, and cloud technologies**, I specialize in designing robust backend architectures, seamless frontend experiences, and efficient cloud deployments.  
 
 ---
 
